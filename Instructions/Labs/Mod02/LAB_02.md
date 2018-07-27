@@ -50,11 +50,11 @@ For this lab, you will use the available host machine. Before you begin this lab
 
 	- Name: **vnet20532**
 
-	- Location: **Select the region that is closest to your location**
-
-	- Existing Resource Group: **20532**
-
 	- Address Space: **10.0.0.0/16**
+
+	- Resource Group: **20532**
+
+	- Location: **Select the region that is closest to your location**
 
 	- Subnet Name: **Apps**
 
@@ -74,7 +74,7 @@ For this lab, you will use the available host machine. Before you begin this lab
 
 	- Deployment model: **Resource manager**
 
-	- Account kind: **General purpose**
+	- Account kind: **Storage (general purpose v1)**
 
 	- Performance: **Standard**
 
@@ -100,17 +100,27 @@ For this lab, you will use the available host machine. Before you begin this lab
 
 	- Password: **AzurePa$$w0rd**
 
+	- Resource Group: **20532**
+
 	- Size: **F4 Standard**
+
+	- Use managed disks: **No**
+
+	- Storage Account: **stor20532[Your Name Here]**
 
 	- Virtual Network: **vnet20532**
 
 	- Subnet: **Apps**
 
-	- Resource Group: **20532**
+	- Select public inbound ports: 
 
-	- Storage Account: **stor20532[Your Name Here]**
+	- Enable Auto-Shutdown: On
 
-	- Diagnostic Storage Account: **Disabled**
+	- Shutdown time: Configure a shutdown time that is after business hours in your location
+
+	- Boot diagnostics: **Disabled**
+
+	- Guest OS diagnostics: **Disabled**
 
 	- Image: **Windows Server 2012 R2 Datacenter**
 
