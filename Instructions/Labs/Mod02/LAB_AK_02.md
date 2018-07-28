@@ -382,7 +382,33 @@
 
 	> **Note**: This Virtual Machine will come with **Visual Studio 2017**, the **Azure Storage Emulator** and **SQL LocalDB** pre-installed.
 
-#### Task 5: Install the Azure Cosmos DB Emulator
+#### Task 5: Update Visual Studio
+
+1. In Visual Studio, open the **Tools** menu and then select the **Extensions and Updates.…** option.
+
+1. On the left side **Extensions and Update** dialog expand the **Updates** category.
+
+1. Select the **Product Updates** option from the list of update categories.
+
+1. Select **(insert name here)** option from the list of updates.
+
+1. Click the **Update** button.
+
+1. You will be prompted to update **Visual Studio Installer** in order to continue. Click the **Update** button.
+
+1. Wait for the update process to complete.
+
+	> **Note**: You may be prompted to take a survey. You can safely close the dialog.
+
+1.  In the **Visual Studio Installer** dialog, click the **Update** button located below **Visual Studio Community 2017**.
+
+1. You will be prompted to close **Visual Studio** to continue with the update. Click the **Continue** button to tempary close **Visual Studio** until the update is finish.
+
+1. Wait for the update process to complete.
+
+1. You will be prompted to restart the computer to complete the update process. Click the **Restart** button.
+
+#### Task 6: Install the Azure Cosmos DB Emulator
 
 1. On the Start screen, click the **Internet Explorer** tile.
 
