@@ -390,7 +390,7 @@
 
 1. Select the **Product Updates** option from the list of update categories.
 
-1. Select **(insert name here)** option from the list of updates.
+1. Select **Visual Studio Update** option from the list of updates.
 
 1. Click the **Update** button.
 

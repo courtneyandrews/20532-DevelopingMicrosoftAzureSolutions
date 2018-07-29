@@ -112,7 +112,7 @@ For this lab, you will use the available host machine. Before you begin this lab
 
 	- Subnet: **Apps**
 
-	- Select public inbound ports: 
+	- Select public inbound ports: RDP (3389)
 
 	- Enable Auto-Shutdown: On
 
@@ -179,6 +179,8 @@ For this lab, you will use the available host machine. Before you begin this lab
 1. When prompted, sign-in using the **Microsoft Account** associated with your Azure subscription.
 
 	> **Note**: Ensure that the **Keep me signed in** option is selected when you sign-in.
+
+1. Update **Visual Studio 2017** to the latest version available.
 
 1. Validate that you can see the Visual Studio **Start Page**.
 
