@@ -112,9 +112,9 @@ For this lab, you will use the available host machine. Before you begin this lab
 
 	- Subnet: **Apps**
 
-	- Select public inbound ports: RDP (3389)
+	- Select public inbound ports: **RDP (3389)**
 
-	- Enable Auto-Shutdown: On
+	- Enable Auto-Shutdown: **On**
 
 	- Shutdown time: Configure a shutdown time that is after business hours in your location
 

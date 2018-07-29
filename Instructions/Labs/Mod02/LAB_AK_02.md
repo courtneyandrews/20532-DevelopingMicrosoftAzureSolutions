@@ -152,7 +152,11 @@
 
 	a. Click the **Subnet** section and then select **Apps**.
 
-	a. Leave default values for **Public IP Address**, **Network Security Group (firewall)**, **Extensions** and **High Availability**.
+	a. Leave default values for **Public IP Address** and **Network Security Group (firewall)**.
+
+	a. Click the pulldown menu for **Seelect public inbound ports** and select **RDP (3389)**.
+	
+	a. Leave default values for **Extensions** and **High Availability**.
 
 	a. In the **Enable auto-shutdown** section, select the **On** option and configure a shutdown time that is after business hours in your location.
 
